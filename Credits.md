@@ -1,8 +1,8 @@
 Authors :- 
 
-1. Ayush Pattnayak - ayushpattnayak2001@gmail.com  
+1. Rakshit - rakshit25082001@gmail.com  
 
-2. Girinath - girinath2452001@gmail.com
+
 
 Libraries Used :-
 
